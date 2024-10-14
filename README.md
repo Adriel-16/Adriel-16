@@ -20,24 +20,21 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### Certificações 📜
-
-- CCNA: Introduction to Networks
-- Participação em Palestra Técnica - Fortalecendo Sistemas de Detecção de Intrusão com Machine Learning (ACTION Talents)
 
 ---
 
 ### GitHub Stats ⚡
 
 <div>
-  <a href="https://github.com/kevindsg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGuimaraes&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinSGuimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Adriel-16">
+    <img height="180em" src="![Adriel-16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-16&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)"/>
+    <br>
+    <img height="180em" src="![Adriel-16's Stats](https://github-readme-stats.vercel.app/api?username=Adriel-16&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)"/>
+    <br>
+    <img height="180em" src="![Adriel-16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adriel-16&theme=midnight-purple&hide_border=true)">
   </a>
 </div>
 
@@ -45,7 +42,7 @@
 
 ### Entre em contato comigo! 📭
 <div>
-  <a href="https://www.linkedin.com/in/kevinsguimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adriel-loan-da-cruz-333185333/?trk=opento_sprofile_details" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---
