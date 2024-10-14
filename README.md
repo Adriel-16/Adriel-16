@@ -30,11 +30,11 @@
 
 <div>
   <a href="https://github.com/Adriel-16">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adriel-16&theme=material-palenight&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="180em" width="100em" src="https://github-readme-stats.vercel.app/api?username=Adriel-16&theme=material-palenight&show_icons=true&hide_border=true&count_private=true">
     <br>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adriel-16&theme=material-palenight&hide_border=true"/>
+    <img height="180em" width="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adriel-16&theme=material-palenight&hide_border=true"/>
     <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-16&theme=material-palenight&show_icons=true&hide_border=true&layout=compact">
+    <img height="180em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-16&theme=material-palenight&show_icons=true&hide_border=true&layout=compact">
   </a>
 </div>
 
@@ -43,6 +43,7 @@
 ### Entre em contato comigo! 📭
 <div>
   <a href="https://www.linkedin.com/in/adriel-loan-da-cruz-333185333/?trk=opento_sprofile_details" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/adri.l.cruz/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adri.l.cruz/">
 </div>
 
 ---
