@@ -30,11 +30,11 @@
 
 <div>
   <a href="https://github.com/Adriel-16">
-    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Adriel-16&theme=material-palenight&show_icons=true&hide_border=true&count_private=true">
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Adriel-16&theme=material-palenight&show_icons=true&hide_border=true&count_private=true">
     <br>
-    <img height="180em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adriel-16&theme=material-palenight&hide_border=true"/>
+    <img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adriel-16&theme=material-palenight&hide_border=true"/>
     <br>
-    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-16&theme=material-palenight&show_icons=true&hide_border=true&layout=compact">
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-16&theme=material-palenight&show_icons=true&hide_border=true&layout=compact">
   </a>
 </div>
 
