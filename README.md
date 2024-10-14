@@ -34,7 +34,7 @@
     <br>
     <img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adriel-16&theme=material-palenight&hide_border=true"/>
     <br>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-16&theme=material-palenight&show_icons=true&hide_border=true&layout=compact">
+    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-16&theme=material-palenight&show_icons=true&hide_border=true&layout=compact">
   </a>
 </div>
 
