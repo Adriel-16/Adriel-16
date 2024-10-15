@@ -42,7 +42,7 @@
 
 ### Entre em contato comigo! 📭
 <div align="center">
- <table>
+ <table border=1>
   <tr>
     <td><a href="https://www.linkedin.com/in/adriel-loan-da-cruz-333185333/?trk=opento_sprofile_details" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td>
   </tr>
