@@ -26,7 +26,7 @@
 
 ---
 
-### GitHub Stats ==>
+### GitHub Stats ↘️
 
 <div align="center">
   <a href="https://github.com/Adriel-16">
@@ -40,7 +40,7 @@
 
 ---
 
-### Entre em contato comigo! 📭
+### Entre em contato comigo! ↘️
 <div align="center">
  <table border=1>
   <tr>
